@@ -1,0 +1,7 @@
+.App{
+    flex: 1;
+    background-color: '#fff';
+    align-items: 'center';
+    justify-content: 'center';
+    margin-top: 200px;
+}
